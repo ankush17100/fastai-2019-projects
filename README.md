@@ -1,5 +1,5 @@
 # fastai-2019-projects
-Projects and scripts learned in fastai with comments and experimentations of my own.
+Projects and scripts learned in fastai with comments and experimentations of my own. This is for my own learning purpose and for showcasing the things I worked on.
 
 **Oxford-IIIT Pet Dataset Classification**
 
