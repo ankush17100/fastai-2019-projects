@@ -12,3 +12,6 @@ I Used a small javascript code to save the URLs of images returned in google ima
 **SGD**
 
 Here I demonstrated the problem of linear regression and implemented it in pytorch and then I made an animation to show the algorithm optimise it.
+
+**Head-Pose**
+In this project I did Image regression in finding the center of the head in the images. The Dataset used is [Biwi head pose dataset](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db)
