@@ -16,3 +16,6 @@ Here I demonstrated the problem of linear regression and implemented it in pytor
 **Head-Pose**
 
 In this project I did Image regression in finding the center of the head in the images. The Dataset used is [Biwi head pose dataset](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db)
+
+
+Made with :blue_heart: by Ankush
