@@ -17,5 +17,12 @@ Here I demonstrated the problem of linear regression and implemented it in pytor
 
 In this project I did Image regression in finding the center of the head in the images. The Dataset used is [Biwi head pose dataset](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db)
 
+**Camvid**
+
+In this project I use the camvid dataset and use the `unet_learner` from fastai and having resnet34 as the downward model in the unet - the settings is also called a dynamic unet. I achieved around 93% accuracy calculated according to the guidelines in the original dataset papet. I also did progressive resizing in this.
+
+**Camvid_Tiramisu**
+
+In this project I used the camvid dataset again but I used a smaller version, a version that was used in the 100 layer tiramisu paper that I got from this [github link](https://github.com/alexgkendall/SegNet-Tutorial). Using the same approach as in the previous(above) notebook, I got around 93% accuracy in this dataset too.
 
 Made with :blue_heart: by Ankush
